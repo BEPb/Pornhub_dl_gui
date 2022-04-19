@@ -1,5 +1,4 @@
 # Pornhub_dl_gui
-
 ![GUI](pornhub.png)
 
 <b> Your own Pornhub downloader (GUI) written in python.</b>
@@ -17,17 +16,16 @@
 </p>
 
 
-Read in other languages: [Russian](README.ru.md), [हिन्दी](README.hindi.md), [中國人](README.chinese.md)
+Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [Russian](README.ru.md)
 
 
 
-![GUI](images/Browser.gif)
+![GUI](images/Notepad.gif)
 
 
-
-## How to install and run
+##如何安裝和運行
 ____
-### Clone the repository
+### 克隆存儲庫
  
 ```sh
 $ cmd
@@ -35,14 +33,16 @@ $ git clone https://github.com/BEPb/Pornhub_dl_gui
 $ cd Pornhub_dl_gui
 ```
  
-### Install the necessary packages (Install dependencies)
+### 安裝必要的包（安裝依賴）
 ```sh
-$  pip install -r requirements.txt
+$ pip install -r requirements.txt
 ```
 
-## Usage
-To launch the GUI:
+＃＃ 用法
+要啟動 GUI：
 ```
 python3 -m pornhub_dl
 ```
+
+
 
