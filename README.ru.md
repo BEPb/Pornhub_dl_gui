@@ -22,7 +22,7 @@
 
 
 
-![GUI](images/Notepad.gif)
+![GUI](pornhub.gif)
 
 
 ## Порядок установки и запуска                    

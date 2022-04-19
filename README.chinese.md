@@ -20,7 +20,7 @@ Read in other languages: [English](README.md), [हिन्दी](README.hindi
 
 
 
-![GUI](images/Notepad.gif)
+![GUI](pornhub.gif)
 
 
 ##如何安裝和運行

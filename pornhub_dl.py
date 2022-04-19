@@ -69,7 +69,7 @@ class PrintLogger(): # create file like object
         self.textbox.insert(tk.END, text) # write text to textbox
             # could also scroll to end of textbox here to make sure always visible
 
-    def flush(self): # needed for file like object
+    def flush(self):  # needed for file like object
         pass
 
 
@@ -104,7 +104,7 @@ download = Button(root, text="Download", padx=30, bg="orange", relief=RIDGE, bor
                cursor="hand2", command=Download_video)
 download.place(x=150, y=240)
 
-# Окно для вывода результата скачивани
+# Окно для вывода результата скачивания
 Output = Text(root, height = 22, width = 97)
 Output.place(x=10, y=290)
 pl = PrintLogger(Output)

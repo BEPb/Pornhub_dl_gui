@@ -22,7 +22,7 @@ Read in other languages: [English](README.md), [Russian](README.ru.md), [中國�
 
 
 
-![GUI](images/Notepad.gif)
+![GUI](pornhub.gif)
 
 
 ## कैसे स्थापित करें और चलाएं

@@ -21,7 +21,7 @@ Read in other languages: [Russian](README.ru.md), [हिन्दी](README.hi
 
 
 
-![GUI](images/Browser.gif)
+![GUI](pornhub.gif)
 
 
 
