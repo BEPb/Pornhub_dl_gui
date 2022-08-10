@@ -16,7 +16,7 @@
 </p>
 
 
-Read in other languages: [English](README.md), [हिन्दी](README.hindi.md), [Russian](README.ru.md)
+Read in other languages: [English](README.md) | [Español](README.es.md) | [Russian](README.ru.md) | [हिन्दी](README.hindi.md)
 
 
 

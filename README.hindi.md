@@ -18,7 +18,7 @@
 
 
 
-Read in other languages: [English](README.md), [Russian](README.ru.md), [中國人](README.chinese.md)
+Read in other languages: [English](README.md) | [Español](README.es.md) | [Russian](README.ru.md) | [中國人](README.chinese.md) 
 
 
 
