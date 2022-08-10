@@ -91,6 +91,7 @@ if __name__ == '__main__':
     # url = 'https://rt.pornhub.com/view_video.php?viewkey=ph60c0bd38c9329'
     root = tk.Tk()
     root.title('Pornhub Downloader')  # титул окна
+    root.iconbitmap('icon.ico') # show icon
     root.geometry('800x700')
     root.maxsize(WIDTH, HEIGHT)
     root.minsize(WIDTH, HEIGHT)
